@@ -1,3 +1,5 @@
+ORIGINALLY FROM OMEGAMOON 
+
 Linux kernel for Rockchip SOCs - www.omegamoon.com
 --------------
 
